@@ -481,7 +481,7 @@ Become a financial contributor and help us sustain our community. [[Contribute](
 
 <a href="https://opencollective.com/sshportal"><img src="https://opencollective.com/sshportal/individuals.svg?width=890"></a>
 
-#### Organizations
+#### Organizations.
 
 Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/sshportal/contribute)]
 
